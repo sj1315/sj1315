@@ -8,9 +8,9 @@
   
 - 🌱 I’m currently learning **React.js**
 
-- 🧑‍🎓 I’m graduated at **SLIIT**
+- 🧑‍🎓 I’m graduated in BS Computer Engineering
 
-- 📫 How to reach me **lantanostanlee@gmail.com**
+- 📫 Reach me **lantanostanlee@gmail.com**
   
 - ⚡ Fun fact **Call me as STAN**
 
