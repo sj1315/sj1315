@@ -6,15 +6,13 @@
 <tr border="none">
 <td width="50%" align="left">
   
-- 🌱 I’m currently learning **MERN**
+- 🌱 I’m currently learning **React.js**
 
 - 🧑‍🎓 I’m graduated at **SLIIT**
 
-- 💬 Ask me about **Java**
-
-- 📫 How to reach me **kaveen.dinethma@gmail.com**
+- 📫 How to reach me **lantanostanlee@gmail.com**
   
-- ⚡ Fun fact **Call me as KD**
+- ⚡ Fun fact **Call me as STAN**
 
 </td>
 <td width="50%" align="center">
