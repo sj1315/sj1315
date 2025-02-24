@@ -10,7 +10,7 @@
 
 - 🧑‍🎓 I’m graduated in BS Computer Engineering
 
-- 📫 Reach me **lantanostanlee@gmail.com**
+- 📫 How to reach me **lantanostanlee@gmail.com**
   
 - ⚡ Fun fact **Call me as STAN**
 
