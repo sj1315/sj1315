@@ -1,6 +1,6 @@
 <p align="center" ><img  src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 100px></p>
 <h1 align="center">Hello World 👋, I'm Stanlee Lantano</h1>
-<h3 align="center">Passionate Computer Engineering | Exploring the Boundless World of Technology</h3>
+<h3 align="center">A passionate Frontend Developer / Web Developer | Exploring the Boundless World of Technology</h3>
 
 <table align="center">
 <tr border="none">
